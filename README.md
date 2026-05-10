@@ -1,0 +1,1 @@
+# hCaptcha-trained-mode
