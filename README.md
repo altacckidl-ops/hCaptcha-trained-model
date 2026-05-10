@@ -78,7 +78,8 @@ for result in results:
 
 The model detects the correct object and returns its center coordinates for accurate targeting.
 
-![result](<img width="480" height="330" alt="debug_board" src="https://github.com/user-attachments/assets/62f86b8c-4a5d-4b45-9f09-84c244c21a49" />)
+For results and more trained models join our discord
+👉 [https://discord.gg/steezyteam](https://discord.gg/AzUEK4gUva)
 
 ---
 
